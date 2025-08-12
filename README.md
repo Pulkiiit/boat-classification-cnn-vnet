@@ -1,5 +1,7 @@
 # 🚤 Boat Types Image Classification — CNN & Transfer Learning
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MrlMMuhv7SXHjloaKwUdtuDxpIDM5ZQ2?usp=sharing)
+
 ## 📌 Overview
 This project focuses on classifying images of different **boat types** using deep learning.  
 We start with a **Convolutional Neural Network (CNN)** from scratch to understand the baseline performance, finding that the network is unable to classify the images that well, then move to **transfer learning** to improve accuracy and generalization.
