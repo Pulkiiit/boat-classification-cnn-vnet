@@ -47,6 +47,8 @@ The dataset is sourced from **Kaggle's [Boat Types Recognition](https://www.kagg
 - Accuracy and loss curves plotted for training/validation.
 - Final model tested on unseen data.
 
+### **5. Flask API**
+- Have created a simple flask api for serving our model.
 ---
 
 ## 📊 Results
