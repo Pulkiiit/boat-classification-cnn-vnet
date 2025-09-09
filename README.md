@@ -1,4 +1,4 @@
-# 🚤 Boat Types Image Classification — CNN & Transfer Learning
+# Boat Types Image Classification — CNN & Transfer Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MrlMMuhv7SXHjloaKwUdtuDxpIDM5ZQ2?usp=sharing)
 
